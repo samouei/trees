@@ -1,7 +1,4 @@
 
-# Part A0: Data representation
-# Fill out the following variables correctly.
-# If correct, the tests named data_representation should pass.
 tree1 = [[21, 19], [[3, 5], 0]]
 tree2 = [[12, 3], 6]
 tree3 = [[26], [18, 3, 2], [8]]
