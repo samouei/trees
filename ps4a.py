@@ -1,8 +1,3 @@
-# Problem Set 4A
-# Name: Shirin Amouei
-# Collaborators: None
-# Time Spent: 2:30
-# Late Days Used: None
 
 # Part A0: Data representation
 # Fill out the following variables correctly.
